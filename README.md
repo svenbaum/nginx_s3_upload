@@ -1,5 +1,5 @@
 # Nginx S3 File Upload Proxy
-Proof of concept S3 file upload proxy using Nginx, complete with AWS authentication.
+Upload files to S3 using NGINX as proxy in Docker, complete with AWS authentication.
 
 ## Installation
 
